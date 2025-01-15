@@ -1,4 +1,4 @@
 # CraftingAIPrompts
 Sustainable prompt architecture and prompt templates
 
-More coming soon...
+For now see the Architecture section on craftingaiprompts.org
